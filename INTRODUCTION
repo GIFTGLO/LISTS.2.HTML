@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>lists</title>
+    </head>
+    <body>
+        <h1>fruits</h1>
+        <ul>
+            <li>mangoes</li>
+            <li>oranges</li>
+            <li>apples</li>
+            <li>pineapples</li>
+        </ul>
+        <ol>
+        <h1>vegetables</h1>
+            <li>carrots</li>
+            <li>cabbage</li>
+            <li>eggplant</li>
+            <li>onions</li>
+        </ol>
+    </body>
+</html>
